@@ -2,7 +2,7 @@
 
 A full-stack, real-time **Intrusion Detection and Prevention System (IDS/IPS)** that leverages **AI/ML** to monitor live network traffic, detect cyber attacks, and **automatically block malicious IPs** using **Docker-controlled firewall rules**.
 
----
+
 
 ##  Overview
 
@@ -10,7 +10,7 @@ SentinelAI-Real-Time-IDS-IPS is designed to demonstrate how modern **Security Op
 
 The system captures live network packets, applies machine learning for threat classification, visualizes attacks on an interactive dashboard, and enforces **automatic prevention** by dynamically updating firewall rules inside an isolated Docker environment.
 
----
+
 
 ##  Key Features
 
@@ -23,7 +23,7 @@ The system captures live network packets, applies machine learning for threat cl
 - Manual & automated response actions  
 - Scalable microservice architecture  
 
----
+
 
 ##  System Architecture
 
@@ -49,7 +49,7 @@ Automatic IP Blocking
 
 ````
 
----
+
 
 ##  Technology Stack
 
@@ -73,34 +73,34 @@ Automatic IP Blocking
 - iptables  
 - docker-compose  
 
----
+
 
 ##  Screenshots
 
 ###  Security Dashboard Overview
 ![Security Dashboard Overview](screenshots/security-dashboard-overview.jpg)
 
----
+
 
 ###  Recent Threats Monitoring
 ![Recent Threats Monitor](screenshots/recent-threats-monitor.jpg)
 
----
+
 
 ###  Quick Actions Panel
 ![Quick Actions Panel](screenshots/quick-actions-panel.jpg)
 
----
+
 
 ###  Alert & Security Response
 ![Alert Security Action](screenshots/alert-security-action.jpg)
 
----
+
 
 ###  Docker Firewall Enforcement (iptables)
 ![Docker Firewall Enforcement](screenshots/docker-firewall-enforcement.jpg)
 
----
+
 
 ##  Installation & Setup
 
@@ -132,7 +132,7 @@ npm run dev
 docker-compose up
 ```
 
----
+
 
 ##  How It Works
 
@@ -143,7 +143,7 @@ docker-compose up
 5. Malicious IPs are **automatically blocked** using iptables
 6. Security team can take manual actions when required
 
----
+
 
 ##  Use Cases
 
@@ -153,7 +153,7 @@ docker-compose up
 * Docker-based security isolation
 * AI-driven network defense research
 
----
+
 
 ##  Future Enhancements
 
@@ -163,13 +163,13 @@ docker-compose up
 * Role-based access control
 * Automated incident reporting
 
----
+
 
 ##  Contributor
 
 **Made By Diya Kharb**
 
----
+
 
 ##  License
 
