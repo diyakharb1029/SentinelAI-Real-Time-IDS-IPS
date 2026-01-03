@@ -1,0 +1,18 @@
+{
+  "stats": {
+    "total_threats": 0,
+    "blocked_attacks": 0,
+    "network_traffic": "1.8 MB",
+    "active_users": 1
+  },
+  "threats": [],
+  "firewall_rules": [],
+  "system_health": {
+    "cpu_usage": 0,
+    "memory_usage": 0,
+    "disk_usage": 0,
+    "network_usage": 0
+  },
+  "alerts": [],
+  "scans": []
+}
